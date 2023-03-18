@@ -23,7 +23,7 @@ const Booking = () => {
             setusers(data.docs.map((doc) => ({...doc.data(),id:doc.id })))
         };
         getUsers();
-    }, [])
+    })
 
 
     const createUser = async() => {
