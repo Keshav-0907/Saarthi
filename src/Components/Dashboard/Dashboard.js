@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom';
-import { auth, db } from '/Users/keshavmalik/Desktop/Projects/Ambulance/saarthi1/src/Components/Firebase.js';
+import { auth, db } from '../Firebase';
 import { signOut, onAuthStateChanged} from "firebase/auth";
 import { useState, useEffect } from 'react';
 import { collection, getDocs, deleteDoc, doc } from "firebase/firestore"
