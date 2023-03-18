@@ -1,0 +1,73 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.hp-img{
+    width: 90vh;
+    height: 80vh;
+  }
+  
+  .hp-cont{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .homepage-cont{
+    padding: 20px 40px;
+    width: 600px;
+    height: 350px;
+    text-align: center;
+    margin: 20px 50px ;;
+    border-radius: 10px;
+  }
+  
+  .homepage-head h1{
+    font-weight: 500;
+    font-size: 30px;
+    text-transform: uppercase;
+  }
+  
+.homepage-text{
+  font-size: larger;
+  margin: 20px 0px
+  
+}
+
+  .btn-home{
+    background-color: rgb(255, 0, 0);
+    border: none;
+    padding: 10px ;
+    font-size: 25px;
+    border-radius: 25px;
+    margin: 20px 0px;
+    width: 250px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    scroll-behavior: smooth;
+  }
+  
+  .btn-home:hover{
+    background-color: rgb(196, 0, 0);
+  }
+
+  .highlight p{
+    color: red;
+    font-size: 100px;
+    font-weight: 700;
+  }
+  
+.hp-about{
+  text-align: center;
+  margin: 0px 80px;
+}
+
+.hp-about-head{
+  font-size: 40px;
+  margin: 20px;
+}
+
+.hp-about-text{
+  font-size: 25px;
+  line-height: 50px;
+}

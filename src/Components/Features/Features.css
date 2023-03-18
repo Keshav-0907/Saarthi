@@ -1,0 +1,39 @@
+.services-main{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    height: 62vh;
+    padding: 150px 50px;
+  }
+  
+  
+  .feature{
+    border-radius: 20px;
+    width: 250px;
+    margin: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .feature:hover{
+    cursor: pointer;
+  }
+  
+  .feature-icon{
+    width: 100px;
+    margin: 20px;
+  }
+  
+  .features-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .feature-text{
+    margin: 5px 0px;
+  }
+
+  .services-head h1{
+    font-size: 80px;
+    margin: 20px;
+  }
+  

@@ -1,0 +1,48 @@
+.cont-main{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.info{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    margin: 0px 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.info-head{
+    margin-top: 30px;
+}
+
+.info-main{
+    text-align: left;
+    margin-left: 30px;
+}
+
+.info-main p{
+    font-size: 20px;
+    line-height: 60px;
+    text-align: left;
+}
+
+.map-cont{
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.info-high{
+    font-size: 25px;
+    color: rgb(247, 0, 0);
+}
+
+.links{
+    margin: 40px;
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between;
+    padding: 0px 100px;
+}

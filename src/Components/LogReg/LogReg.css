@@ -1,0 +1,104 @@
+.login-main{
+    display: flex;
+    flex-direction: row;  
+    height: 100vh;
+    
+  }
+  
+  .delete-btn{
+    padding: 7px;
+    text-decoration: none;
+    margin: 5px 5px ;
+    font-size: 15px;
+    background-color: rgb(224, 60, 0);
+    border-radius: 3px;
+    cursor: pointer;
+    border: 1px solid black;
+    width: 100px;
+  }
+  
+  .login-1{
+    display: flex;
+    flex-direction: column;
+    padding-top: 15px;
+    margin-top: 20vh;
+    margin-left: 20vh;
+    border: 1px solid black;
+    height: 60vh;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+  }
+  
+  .log-inp{
+    padding: 10px;
+    width: 370px;
+    font-size: 20px;
+    margin: 10px 20px;
+    border-radius: 6px;
+    border: 1px solid black;
+  }
+  
+  .login-bt{
+    border: none;
+    font-size: 20px;
+    width: 300px;
+    padding: 6px ;
+    margin: 15px 70px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(137, 137, 249);
+    color: black;
+    cursor: pointer;
+  }
+  
+  .login-bt:hover{
+    background-color: rgb(104, 104, 247);
+  }
+  
+  
+  .dashboard-btn{
+    width: 200px;
+    padding: 4px;
+    margin: 5px;
+    font-size: 15px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .dash-pic{
+    width: 20px;}
+  
+  .sinout-btn{
+    border: 1px solid black;
+    font-size: 20px;
+    padding: 6px ;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 190px;
+    border-radius: 5px;
+    cursor: pointer;
+    align-items:flex-end
+    
+  }
+  
+  .login-logo{
+    width: 50%;
+  }
+  
+  .login-head{
+    text-align: center;
+  }
+  
+  .login-img{
+    width: 400px;
+    height: 400px;
+    margin-left:130px;
+    margin-top: 100px;
+  }
+  
+  .signup-img{
+    margin-top: 120px;
+    width: 60vh;
+    margin-left: 150px
+  }

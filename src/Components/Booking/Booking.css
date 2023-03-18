@@ -1,0 +1,91 @@
+.book-logo{
+    width: 90vh;
+    width: 90vh;
+    margin-left: 10px;
+  
+  }
+  
+  .booking-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .booking-cont{
+    width: 40%;
+    margin-left: 90px;
+  }
+  
+  
+  .book-inputs{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: 40px;
+    align-items: center;
+    height: 75vh;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  }
+  
+  .book-inputs h2{
+    font-size: 40px;
+    margin: 20px;
+    font-weight: 500;
+  }
+  
+  .log-inp{
+    margin: 10px;
+    font-size: 30px;
+    padding: 15px;
+  }
+  
+.log-select{
+  width: 88%;
+  margin: 10px;
+  font-size: 14px;
+  padding: 15px;
+}
+
+  .book-label{
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .book-bt{
+    background-color: rgb(255, 0, 0);
+    border: none;
+    padding: 10px ;
+    font-size: 25px;
+    border-radius: 20px;
+    margin: 20px 0px;
+    width: 200px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    scroll-behavior: smooth;
+  }
+
+  .book-bt:hover{
+    background-color: rgb(210, 42, 42);
+  }
+
+  .book-head{
+    text-align: center;
+    margin: 50px;
+  }
+
+  .book-head h2{
+    font-size: 70px;
+  }
+
+  .book-head p{
+    font-size: 20px;
+    margin: 20px;
+  }
+
+  .select-amb{
+
+  }
