@@ -10,10 +10,10 @@ const Waiting = () => {
               <p>Ambulance driver will contact you soon</p>
           </div>
 
-          <div className='chat-amb'>
-            <h2> Chat with ambulance driver</h2>
-            <Link to='/message'><button className='chat-btn'>Chat Now</button></Link>
-          </div>
+//           <div className='chat-amb'>
+//             <h2> Chat with ambulance driver</h2>
+//             <Link to='/message'><button className='chat-btn'>Chat Now</button></Link>
+//           </div>
       </div>
       <header className="App-header">
               <img src='https://cdn-icons-png.flaticon.com/512/64/64724.png' className="App-logo" alt="logo" />
