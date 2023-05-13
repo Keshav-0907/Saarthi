@@ -4,6 +4,9 @@ Saarthi is a an ambulance booking and tracking system designed to provide first-
 
 All the booking requests can be seen at "Driver Dashboard" 
 
+
+<img width="1438" alt="Screenshot 2023-05-13 at 4 06 07 PM" src="https://github.com/Keshav-0907/saarthi/assets/91189139/2e49a6b6-c0d3-40a2-b146-e5ce139b199b">
+
 ## Setting Up 
 
 1. Clone the project using `git clone https://github.com/Keshav-0907/saarthi` in the terminal 
